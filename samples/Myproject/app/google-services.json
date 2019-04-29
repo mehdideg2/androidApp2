@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "771240344707",
+    "firebase_url": "https://my-project-1520452204815.firebaseio.com",
+    "project_id": "my-project-1520452204815",
+    "storage_bucket": "my-project-1520452204815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771240344707:android:9ac2080bcaa92f99",
+        "android_client_info": {
+          "package_name": "com.mehdi.multilanguageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771240344707-8u0j65dcc0e3ohontliq2ggi1kauce3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfVHVHrCkTWdkctBAKi2evcpSYkFlOrnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771240344707-8u0j65dcc0e3ohontliq2ggi1kauce3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771240344707:android:d55be8444eb97786",
+        "android_client_info": {
+          "package_name": "com.mehdi.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771240344707-8u0j65dcc0e3ohontliq2ggi1kauce3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfVHVHrCkTWdkctBAKi2evcpSYkFlOrnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771240344707-8u0j65dcc0e3ohontliq2ggi1kauce3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
